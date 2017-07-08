@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
-import {Table} from 'react-bootstrap';
 import MovieTable from './movieComponent';
 import {FormGroup} from 'react-bootstrap';
 import {FormControl} from 'react-bootstrap';

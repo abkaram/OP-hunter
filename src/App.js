@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
 import Header from './components/headerComponent';
-import Form from './components/formComponent';
-import MovieTable from './components/movieComponent';
-import MovieBox from './components/movieBoxComponent';
 import './App.css';
 
 class App extends Component {
